@@ -316,7 +316,7 @@ section {
 
 @media (max-width: 641px) {
     body{
-        font-size: 15px;
+        font-size: 10px;
     }
     .main-content h2 {
         font-size: 0.8em;
