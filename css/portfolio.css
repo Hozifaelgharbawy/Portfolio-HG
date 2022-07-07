@@ -162,12 +162,10 @@ section {
     font-weight: 700;
     margin: 10px;
 }
-
-.projects {
+.certificates {
     background: #0f0c29; 
     background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29); 
     background: linear-gradient(to right, #24243e, #302b63, #0f0c29); 
-;
 }
 
 .projects .content {
@@ -315,7 +313,7 @@ section {
 
 @media (max-width: 641px) {
     body{
-        font-size: 12px;
+        font-size: 10px;
     }
     .main-content h2 {
         font-size: 0.8em;
