@@ -309,6 +309,9 @@ section {
         justify-content: center;
         padding-left: 19px;
     }
+    .edite .card {
+        width: 320px;
+    }
 }
 
 @media (max-width: 641px) {
@@ -321,10 +324,16 @@ section {
     .main-content h3 {
         font-size: 1.4em;
     }
+    .edite .card {
+        width: 240px;
+    }
 }
 
 @media (max-width: 300px) {
     body{
         font-size: 10px;
+    }
+    .edite .card {
+        width: 240px;
     }
 }
