@@ -1,48 +1,41 @@
 export const INFO = {
-    pic: 'MohamedWafy.jpg',
-    about: 'Full Stack Web Developer, and a Computer Science student with experience in Frontend Development, Backend Development, and some cloud.'
+    pic: 'Hozifa.jpg',
+    about: 'Backend Web Developer, and a Computer Science student with experience in Backend Development using node.js.'
 }
 
 
 export const LINKS = [
-    { title: 'LinkedIn', href: 'https://linkedin.com/in/mohamedwafy', brd: '#1e90ff', sdw: '#1e90ff22' },
-    { title: 'Github', href: 'https://github.com/MoWafy001', brd: '#333', sdw: '#3332' },
-    { title: 'Qwiklabs', href: 'https://www.qwiklabs.com/public_profiles/0f19a901-5330-4dcf-8ed6-95d7ec3b68db', brd: '#F4B400', sdw: '#F4B40022' },
-    { title: 'wafy123445@gmail.com', href: 'mailto: wafy123445@gmail.com', brd: '#C71610', sdw: '#C7161022' },
-    { title: '+201127813978', href: 'tel: +201128913978', brd: '#000', sdw: '#0002' },
+    { title: 'LinkedIn', href: 'https://eg.linkedin.com/in/hozifa-elgharbawy-%F0%9F%87%B5%F0%9F%87%B8-4bb1451ba', brd: '#1e90ff', sdw: '#1e90ff22' },
+    { title: 'Github', href: 'https://github.com/Hozifaelgharbawy', brd: '#333', sdw: '#3332' },
+    { title: 'hozifaelgharbawy@gmail.com', href: 'mailto: hozifaelgharbawy@gmail.com', brd: '#C71610', sdw: '#C7161022' },
+    { title: 'whatsapp', href: 'https://wa.me/201025081821', brd: '#25d366', sdw: '#25d36622' },
+    { title: '+201503594942', href: 'tel: +201503594942', brd: '#000', sdw: '#0002' },
 ]
 
 
 export const SKILLS = [
-    'NodeJS', 'Flask', 'Djagno', 'AWS', 'Python', 'JavaScript', 'PHP', 'API Development',
-    'SQL', 'NoSQL', 'Google Cloud', 'React', 'CSS', 'Java', 'Bootstrap', 'Problem Solving',
-    'Web Scraping', 'jQuery'
+    'NodeJS', 'JavaScript', 'Socket.io', 'SQL', 'MySQL', 'NoSQL', 'mongoose', 'CSS', 'Bootstrap',
+    'C++', 'Express', 'Git', 'GitHub', 'Postman', 'React'
 ]
 
 
 export const PROJECTS = [
-    { tag: 'NodeJS | SocketIO', title: 'The Royal Game of Ur', img: 'rg.png', link: 'https://github.com/MoWafy001/the-royal-game-of-ur', },
-    { tag: 'NodeJS | SocketIO', title: 'Temp Group Chat', img: null, link: 'https://github.com/MoWafy001/temp-group-chat', },
-    { tag: 'React', title: 'My Reads', img: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjames-priest.github.io%2Freactnd-project-myreads%2Fassets%2Fimages%2Fp1-small.jpg&f=1&nofb=1', link: 'https://github.com/MoWafy001/reactnd-project-myreads-starter', },
-    { tag: 'Flask', title: 'Heart Diseases Detector', img: null, link: 'https://github.com/MoWafy001/Detection-of-Heart-Diseases', },
-    { tag: 'Flask', title: 'DrSmart Backend ', img: null, link: 'https://github.com/DrSmartGDSC/DrSmart-Backend', },
-    { tag: 'PHP', title: 'Time Tracker', img: 'tt.webp', link: 'https://github.com/MoWafy001/time-tracker', },
-    { tag: 'NodeJS | PeerJS', title: 'Zoom Clone', img: 'wc.webp', link: 'https://github.com/MoWafy001/zoom-clone-2.0', },
-    { tag: 'JS', title: 'Pomodoro timer', img: 'pt.png', link: 'https://github.com/MoWafy001/Pomodoro-Timer', },
-    { tag: 'JS', title: 'Spelling Practice', img: 'sp.png', link: 'https://github.com/MoWafy001/spelling-practice', },
-    { tag: 'NodeJS', title: 'Anonymous Questions', img: null, link: 'https://github.com/MoWafy001/anonymous-questions', },
-    { tag: 'Flask', title: 'Coffee Shop', img: null, link: 'https://github.com/MoWafy001/coffee_shop_project', },
-    { tag: 'Flask', title: 'Trivia', img: null, link: 'https://github.com/MoWafy001/trivia', },
-    { tag: 'Flask', title: 'Fyyur', img: 'fy.png', link: 'https://github.com/MoWafy001/fyyur', },
+    { tag: 'Node.js - Mongoose', title: 'Food E-commerce', img: 'Akalat.jpg', link: 'https://github.com/Hozifaelgharbawy/Akalat', },
+    { tag: 'Node.js - TypeScript - Mongoose', title: 'Modarb-Ai-Trainer', img: 'Modarb.jpeg', link: 'https://github.com/Modarb-Ai-Trainer/modarb-backend', },
+    { tag: 'Node.js - Mongoose', title: 'Book E-commerce', img: null, link: 'https://github.com/Hozifaelgharbawy/e-Books', },
+    { tag: 'Node.js - Mongoose', title: 'blogApp', img: null, link: 'https://github.com/Hozifaelgharbawy/blogApp', },
+    { tag: 'React', title: 'BlogPosts', img: null, link: 'https://github.com/Hozifaelgharbawy/BlogPosts-React', },
+    { tag: 'React', title: 'Counter App', img: null, link: 'https://github.com/Hozifaelgharbawy/Counter-App', },
+    { tag: 'HTML - CSS - Bootstrap', title: 'Travel FrontApp', img: null, link: 'https://github.com/Hozifaelgharbawy/Travel-frontApp', },
+    { tag: 'HTML, CSS', title: 'Heart Diseases Detector', img: 'DHD.png', link: 'https://github.com/Hozifaelgharbawy/DHD', },
 ]
 
 
 export const CERTIFICATES = [
-    { tag: 'React - Udacity', title: 'React Developement Cross-Skilling Nanodegree', img: 'https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/82033ead-b043-4f86-80d7-6aff80be062a.svg', link: 'https://graduation.udacity.com/confirm/TA9ZX9QD', },
-    { tag: 'Flask - API Developement - Udacity', title: 'Advanced Web Development Nanodegree', img: "https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/a810afad-78ca-48b5-aa4c-683a4caea70b.svg", link: 'https://graduation.udacity.com/confirm/PANDNREA', },
-    { tag: 'NodeJS - JavaScript - Udacity', title: 'Web Development Professional Nanodegree', img: 'https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/a93eee33-cf66-4953-8fbf-88459b94c17b.svg', link: 'https://graduation.udacity.com/confirm/FFGDWSHT', },
-    { tag: 'Python - Keras - DataCamp', title: 'Image Processing with Keras in Python', img: 'certs/Image Processing with Keras in Python.png', link: 'https://www.datacamp.com/statement-of-accomplishment/course/0d4635181c77d5283ce247671a287192873b8321', },
-    { tag: 'Python - DL - DataCamp', title: 'Introduction to Deep Learning in Python', img: 'certs/Introduction to Deep Learning in Python.png', link: 'https://www.datacamp.com/statement-of-accomplishment/course/095f7e34b990ef3fe5dd329996462606ba0019d4', },
-    { tag: 'Python - Pandas - DataCamp', title: 'Data Manipulation with pandas', img: 'certs/Data Manipulation with pandas.png', link: 'https://www.datacamp.com/statement-of-accomplishment/course/56ab37ab3b7992214bec32ed9c19f97012136d0e', },
-    { tag: 'Python - DataCamp', title: 'Intermediate Python', img: 'certs/Intermediate Python.png', link: 'https://www.datacamp.com/statement-of-accomplishment/course/436ea4783462eb428ddd42d6f56488edef96d2f0', },
+    { tag: 'NodeJS - mongoose - GDSC', title: 'Node.js Back-End Track', img: "certs/Node.js Back-End Track.png", link: 'https://drive.google.com/file/d/1cAG5iwwfAmryaJk94kfiSAm_fVlygQpK/view', },
+    { tag: 'NodeJS - mongoose - GDSC', title: 'NodeJS Head in GDSC', img: "certs/NodeJS Head.png", link: 'https://drive.google.com/file/d/1z906XPnqLnndYgrMDbkPXWkwl5IgGO0l/view', },
+    { tag: 'NodeJS - JavaScript - Udacity', title: 'Advanced Full Stack Web Developer', img: 'https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/7e19cf94-af5c-4673-afaa-7135182e8258.svg', link: 'https://www.udacity.com/certificate/GK3HGDCK', },
+    { tag: 'JavaScript - Udacity', title: 'Front End Development Professional', img: 'https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/db38817b-a61b-4ee7-ace4-e1b98eaf0952.svg', link: 'https://www.udacity.com/certificate/VCWKDJLY', },
+    { tag: 'HTMl - CSS - JavaScript - Udacity', title: 'Web Development Challenger', img: 'certs/web1.png', link: 'https://drive.google.com/file/d/1WR_fvJdscjcQyLhs_xcojdPLyumDDHuF/view?usp=sharing', },
+    { tag: 'SQL - datacamp', title: 'Intermediate SQL Queries', img: 'certs/SQL.png', link: 'https://www.datacamp.com/statement-of-accomplishment/course/e467c3664a0f20ff181c44e0f60832c03edb6587', },
 ]
