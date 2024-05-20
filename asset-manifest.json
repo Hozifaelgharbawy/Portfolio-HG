@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Portfolio-HG/static/css/main.3cad7b48.css",
+    "main.js": "/Portfolio-HG/static/js/main.b7f7522e.js",
+    "index.html": "/Portfolio-HG/index.html",
+    "main.3cad7b48.css.map": "/Portfolio-HG/static/css/main.3cad7b48.css.map",
+    "main.b7f7522e.js.map": "/Portfolio-HG/static/js/main.b7f7522e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cad7b48.css",
+    "static/js/main.b7f7522e.js"
+  ]
+}
