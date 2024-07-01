@@ -1,11 +1,12 @@
 export const INFO = {
     pic: 'Hozifa.jpg',
-    about: 'Backend Web Developer, and a Computer Science student with experience in Backend Development using node.js.'
+    name: 'Hozifa Elgharbawy',
+    about: 'Backend Web Developer with 2+ years of experience. Hardworking and ambitious, skilled in Node.js, SQL,and NoSQL databases.'
 }
 
 
 export const LINKS = [
-    { title: 'LinkedIn', href: 'https://eg.linkedin.com/in/hozifa-elgharbawy-%F0%9F%87%B5%F0%9F%87%B8-4bb1451ba', brd: '#1e90ff', sdw: '#1e90ff22' },
+    { title: 'LinkedIn', href: 'https://www.linkedin.com/in/hozifa-elgharbawy', brd: '#1e90ff', sdw: '#1e90ff22' },
     { title: 'Github', href: 'https://github.com/Hozifaelgharbawy', brd: '#333', sdw: '#3332' },
     { title: 'hozifaelgharbawy@gmail.com', href: 'mailto: hozifaelgharbawy@gmail.com', brd: '#C71610', sdw: '#C7161022' },
     { title: 'whatsapp', href: 'https://wa.me/201025081821', brd: '#25d366', sdw: '#25d36622' },
@@ -14,18 +15,17 @@ export const LINKS = [
 
 
 export const SKILLS = [
-    'NodeJS', 'JavaScript', 'Socket.io', 'SQL', 'MySQL', 'NoSQL', 'mongoose', 'CSS', 'Bootstrap',
-    'C++', 'Express', 'Git', 'GitHub', 'Postman', 'React'
+    'NodeJS', 'NestJS', 'TypeScript', 'JavaScript', 'Socket.io', 'SQL', 'NoSQL', 'MySQL', 'postgres', 'mongoose', 'Express', 'Git'
 ]
 
 
 export const PROJECTS = [
     { tag: 'Node.js - Mongoose', title: 'Food E-commerce', img: 'Akalat.jpg', link: 'https://github.com/Hozifaelgharbawy/Akalat', },
-    { tag: 'Node.js - TypeScript - Mongoose', title: 'Modarb-Ai-Trainer', img: 'Modarb.jpeg', link: 'https://github.com/Modarb-Ai-Trainer/modarb-backend', },
+    { tag: 'Node.js - TypeScript - Mongoose', title: 'Modarb-Ai-Trainer-backend', img: 'Modarb.jpeg', link: 'https://github.com/Hozifaelgharbawy/modarb-backend', },
+    { tag: 'Flask', title: 'modarb-models-server', img: 'Modarb.jpeg', link: 'https://github.com/Hozifaelgharbawy/modarb-models-server'},
     { tag: 'Node.js - Mongoose', title: 'Book E-commerce', img: null, link: 'https://github.com/Hozifaelgharbawy/e-Books', },
-    { tag: 'Node.js - Mongoose', title: 'blogApp', img: null, link: 'https://github.com/Hozifaelgharbawy/blogApp', },
+    { tag: 'Node.js - NestJS - MySql', title: 'Blog App', img: null, link: 'https://github.com/Hozifaelgharbawy/blog-app-NestJs', },
     { tag: 'React', title: 'BlogPosts', img: null, link: 'https://github.com/Hozifaelgharbawy/BlogPosts-React', },
-    { tag: 'React', title: 'Counter App', img: null, link: 'https://github.com/Hozifaelgharbawy/Counter-App', },
     { tag: 'HTML - CSS - Bootstrap', title: 'Travel FrontApp', img: null, link: 'https://github.com/Hozifaelgharbawy/Travel-frontApp', },
     { tag: 'HTML, CSS', title: 'Heart Diseases Detector', img: 'DHD.png', link: 'https://github.com/Hozifaelgharbawy/DHD', },
 ]

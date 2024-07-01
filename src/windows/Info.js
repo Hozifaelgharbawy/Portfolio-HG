@@ -22,6 +22,14 @@ export default function Info({ show, handelClose, buttons: { handelNext, handelN
             }} src={INFO.pic} alt="profile pic" />
 
             <p style={{
+                fontSize: '1.5em',
+                fontWeight: 'bold',
+                textAlign: 'center',
+                margin: '0',
+                padding: '0'
+            }}>{INFO.name}</p>
+
+            <p style={{
                 border: '2px solid #222',
                 padding: '1em',
                 boxShadow: '1em 1em #000',
